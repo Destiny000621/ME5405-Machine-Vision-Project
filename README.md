@@ -25,3 +25,8 @@ The main code of SOM Classifier for execution is :
 ```Matlab
 classification_som.m
 ```
+
+## Reference
+-https://github.com/FHL1998/ME5405_Project
+-https://github.com/Le-HN/ME5405-Machine-Vision-Project
+
